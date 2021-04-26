@@ -1,0 +1,12 @@
+@mixin textStyle ($direction) {
+    line-height: 1.4em;
+    text-align: $direction;
+    
+  }
+  
+  $color: black;
+  $background1: #ecffe9;
+  $background2:  #c0eea9;
+  $background3: #97d279;
+  $shadow:  rgba(0, 0, 0, 0.75);
+  $padding: 20px;
